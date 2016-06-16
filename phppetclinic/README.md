@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 phppetclinic
 ============
 
@@ -45,7 +44,3 @@ https://github.com/KnpLabs/KnpPaginatorBundle
 Translation: 
 http://symfony.com/doc/current/components/translation/introduction.html#installation
 http://symfony2-document.readthedocs.org/en/latest/book/translation.html
-=======
-# phppetclinic
-PHP Petclinic
->>>>>>> a4826667479e37ea45b48a745e2caf20560d5b5d
